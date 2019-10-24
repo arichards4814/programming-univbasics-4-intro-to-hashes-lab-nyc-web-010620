@@ -21,7 +21,7 @@ end
 def id_generator
   # return a hash with a key :id assigned to positive integer
   newOne = {
-    :id = 1
+    :id => 1
   }
 end
 
